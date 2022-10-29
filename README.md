@@ -5,4 +5,4 @@ Codes developed during the course: Object Detection with OpenCV from AI Expert A
 
 
 
-![alt text](https://github.com/bruiglesias/course-object-detection-opencv/blob/master/certificado.pdf)
+![alt text](https://github.com/bruiglesias/course-object-detection-opencv/blob/master/certificado.png)
