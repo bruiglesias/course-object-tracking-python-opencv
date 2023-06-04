@@ -1,4 +1,4 @@
-# course-object-detection-opencv
+# Course Object Detection With Opencv
 
 Codes developed during the course: Object Detection with OpenCV from AI Expert Academy
 
