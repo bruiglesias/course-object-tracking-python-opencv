@@ -1,6 +1,6 @@
-# Course Object Detection With Opencv
+# Course Object Tracking With Opencv
 
-Codes developed during the course: Object Detection with OpenCV from AI Expert Academy
+Codes developed during the course: Object Tracking with OpenCV from AI Expert Academy
 
 
 
